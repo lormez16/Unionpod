@@ -1,12 +1,33 @@
 ---
 layout: post
 title:  "Ni Aunque Me Lo Pidas de Rodillas"
-date:   2015-10-07 15:39:40
-tags: [Musica]
+date:   2017-08-03 15:39:40
+tags: [Música]
 categories: Argentina
-preview: images/derodillas300.jpg
+preview: https://ia601505.us.archive.org/4/items/unionpod/derodillas.jpg
 ---
 
 ![Picture 1](https://archive.org/download/unionpod/derodillas500.jpg)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+<br>
+
+
+_ _ _
+<br>
+Autor: **@patolopardo, @jcc846 y @davicitoloco**  
+[Web](https://audioboom.com/channel/laliga-fm)  
+
+
+**Puedes escuchar este podcast en:**  
+
+[Itunes](https://itun.es/ar/aQtYcb.c)  
+
+**Contacta:**  
+Twitter: [@derodillaspod](https://twitter.com/@derodillaspod)  
+
+
+
+
+
+
+

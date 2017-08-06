@@ -2,7 +2,8 @@
 layout: post
 title:  "Vacia tu bandeja"
 date:   2015-11-06 15:39:40
-tags:
+tags: [Salud]
+categories: [Espana]
 preview: images/Logo3.jpg
 ---
 

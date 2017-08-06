@@ -2,6 +2,7 @@
 layout: post
 title:  "Union Podcastera"
 date:   2015-10-09 15:39:40
+tags: [podcasting]
 preview: images/Unionpod300.jpg
 ---
 

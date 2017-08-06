@@ -2,6 +2,8 @@
 layout: post
 title:  
 date:   2015-10-06 15:39:40
+tags: [Tecnologia]
+categories: [Espana]
 preview: images/ECJ-300x300.jpg
 ---
 

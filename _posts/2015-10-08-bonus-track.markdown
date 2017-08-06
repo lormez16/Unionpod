@@ -2,6 +2,8 @@
 layout: post
 title:  "Bonus Track"
 date:   2015-10-08 15:39:40
+tags: [Musica]
+categories: Argentina
 preview: images/bonus perfil300.jpg
 ---
 

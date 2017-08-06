@@ -1,0 +1,25 @@
+---
+layout: page
+title: Podcast por Países 
+description: "An archive of posts sorted by tag."
+comments: false
+---
+
+
+	<article>
+	<h2>España</h2>
+	<ul>
+    {% for post in site.categories.España %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+		</ul>
+	</article><!-- /.hentry -->
+
+<article>
+	<h2>Argentina</h2>
+	<ul>
+    {% for post in site.categories.Argentina %}
+      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+		</ul>
+	</article><!-- /.hentry -->

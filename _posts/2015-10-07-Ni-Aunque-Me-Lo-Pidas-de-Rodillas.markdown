@@ -2,6 +2,8 @@
 layout: post
 title:  "Ni Aunque Me Lo Pidas de Rodillas"
 date:   2015-10-07 15:39:40
+tags: [Musica]
+categories: Argentina
 preview: images/derodillas300.jpg
 ---
 

@@ -10,7 +10,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/derodillas.jpg
 ![Picture 1](https://archive.org/download/unionpod/derodillas500.jpg)
 <!--reproductor-feed=https://audioboom.com/channels/4816287.rss-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6153944-carta-de-chester-a-chris-cornell.mp3?source=rss&stitched=1"/>
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6153944-carta-de-chester-a-chris-cornell.mp3?source=rss&stitched=1"></audio>
 <!--reproductor-end-->
 
 <br>

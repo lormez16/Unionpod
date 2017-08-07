@@ -8,6 +8,9 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VTBandeja300.jpg
 ---
 
 ![Vacia tu nandeja](http://vaciatubandeja.com/images/Logo400x400.jpg)
+
+### Escucha el último episodio  
+
 <!--reproductor-feed=https://feeds.feedburner.com/Vaciatubandeja-->
 <!--reproductor-start-->
 <audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/QyOBSOkOrJM/07%20Como%20enfocar%20el%20Aprendizaje.mp3"></audio>

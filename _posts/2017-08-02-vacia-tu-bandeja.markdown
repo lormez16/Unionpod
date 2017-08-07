@@ -10,7 +10,7 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/VTBandeja300.jpg
 ![Vacia tu nandeja](http://vaciatubandeja.com/images/Logo400x400.jpg)
 <!--reproductor-feed=https://feeds.feedburner.com/Vaciatubandeja-->
 <!--reproductor-start-->
-<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/QyOBSOkOrJM/07%20Como%20enfocar%20el%20Aprendizaje.mp3"/>
+<audio id="audio" preload="auto" controls="" src="http://feedproxy.google.com/~r/Vaciatubandeja/~5/QyOBSOkOrJM/07%20Como%20enfocar%20el%20Aprendizaje.mp3"></audio>
 <!--reproductor-end-->
 
 **Vacía Tu Bandeja** es un podcast sobre organización personal y creación de hábitos. Está basado en mi experiencia personal a lo largo de los años. El objetivo es compartir todo lo que he aprendido para poder ayudar a otras personas a ser mas organizadas y a crear los hábitos adecuados para ello. 

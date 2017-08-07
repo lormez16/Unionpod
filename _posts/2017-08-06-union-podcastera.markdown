@@ -7,6 +7,10 @@ preview: https://ia601505.us.archive.org/4/items/unionpod/Unionpod300.jpg
 ---
 
 ![Picture 1](https://archive.org/download/unionpod/Unionpod500.jpg)
+<!--reproductor-feed=https://audioboom.com/channels/4920011.rss-->
+<!--reproductor-start-->
+<audio id="audio" preload="auto" controls="" src="https://audioboom.com/posts/6158828-enrique-vargas-de-jyestudio-tiene-las-manos-llenas.mp3?source=rss&stitched=1"/>
+<!--reproductor-end-->
 
 <br>
 El PODCAST de Unión Podcastera busca dar a conocer nuevos podcast a nuevos oyentes por medio de entrevistas a su creadores y así conocer sus proyectos y sus historias.  

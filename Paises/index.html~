@@ -7,7 +7,7 @@ comments: false
 
 
 	<article>
-	<center><h2>España</h2></center>
+	<h2>España</h2>
 	<ul>
     {% for post in site.categories.Espana %}
        {% cycle 'add row' : '<div class="row">', nil, nil %}
@@ -27,9 +27,10 @@ comments: false
 	</article><!-- /.hentry -->
 	
 	<br/>
+	<br/>
 
 <article>
-	<center><h2>Argentina</h2></center>
+	<h2>Argentina</h2>
 	<ul>
     {% for post in site.categories.Argentina %}
       {% cycle 'add row' : '<div class="row">', nil, nil %}
@@ -48,9 +49,10 @@ comments: false
 	</article><!-- /.hentry -->
 	
 	<br/>
+	<br/>
 	
 	<article>
-	<center><h2>Venezuela</h2></center>
+	<h2>Venezuela</h2>
 	<ul>
     {% for post in site.categories.Venezuela %}
       {% cycle 'add row' : '<div class="row">', nil, nil %}

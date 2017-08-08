@@ -7,9 +7,12 @@ categories: [Espana]
 preview: https://ia601505.us.archive.org/4/items/unionpod/VTBandeja300.jpg
 ---
 
-![Vacia tu nandeja](http://vaciatubandeja.com/images/Logo400x400.jpg)
+![Vacia tu bandeja](http://vaciatubandeja.com/images/Logo400x400.jpg)  
 
-### Escucha el último episodio  
+<br/>  
+<br/>  
+
+## Escucha el último episodio  
 
 <!--reproductor-feed=https://feeds.feedburner.com/Vaciatubandeja-->
 <!--reproductor-start-->

@@ -15,6 +15,7 @@ layout: default
   </div>
 
  <br/>
+ <br/>
 
   <article class="post-content">
     {{ content }}

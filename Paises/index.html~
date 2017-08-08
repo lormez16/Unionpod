@@ -7,9 +7,9 @@ comments: false
 
 
 	<article>
-	<h2>España</h2>
+	<center><h2>España</h2></center>
 	<ul>
-    {% for post in site.tags.Espana %}
+    {% for post in site.categories.Espana %}
        {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
             <div class="preview-panel">
@@ -22,13 +22,16 @@ comments: false
 {% cycle 'end row' : nil, nil, '</div>' %}
 
     {% endfor %}
+    {% cycle 'end row' : nil, '</div>', '</div>' %}
 		</ul>
 	</article><!-- /.hentry -->
+	
+	<br/>
 
 <article>
-	<h2>Argentina</h2>
+	<center><h2>Argentina</h2></center>
 	<ul>
-    {% for post in site.tags.Argentina %}
+    {% for post in site.categories.Argentina %}
       {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
             <div class="preview-panel">
@@ -40,14 +43,16 @@ comments: false
         </div>
 {% cycle 'end row' : nil, nil, '</div>' %}
     {% endfor %}
+    {% cycle 'end row' : nil, '</div>', '</div>' %}
 		</ul>
 	</article><!-- /.hentry -->
 	
+	<br/>
 	
 	<article>
-	<h2>Venezuela</h2>
+	<center><h2>Venezuela</h2></center>
 	<ul>
-    {% for post in site.tags.Venezuela %}
+    {% for post in site.categories.Venezuela %}
       {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
             <div class="preview-panel">
@@ -59,5 +64,6 @@ comments: false
         </div>
 {% cycle 'end row' : nil, nil, '</div>' %}
     {% endfor %}
+    {% cycle 'end row' : nil, '</div>', '</div>' %}
 		</ul>
 	</article><!-- /.hentry -->

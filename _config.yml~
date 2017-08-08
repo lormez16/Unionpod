@@ -10,6 +10,8 @@ url: "https://lormez16.github.io/Unionpod" # the base hostname & protocol for yo
 twitter_username: UnionPodcastera
 github_username: 
 
+enconding: utf-8
+
 # Build settings
 markdown: kramdown
 permalink: pretty
